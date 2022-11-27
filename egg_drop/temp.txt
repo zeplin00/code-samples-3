@@ -1,0 +1,574 @@
+Eggs: 2, Floors: 2
+	Min drops = 2 from floor = 1
+Eggs: 2, Floors: 3
+	Min drops = 3 from floor = 1
+	Min drops = 2 from floor = 2
+Eggs: 2, Floors: 4
+	Min drops = 3 from floor = 1
+Eggs: 2, Floors: 5
+	Min drops = 4 from floor = 1
+	Min drops = 3 from floor = 2
+Eggs: 2, Floors: 6
+	Min drops = 4 from floor = 1
+	Min drops = 3 from floor = 3
+Eggs: 2, Floors: 7
+	Min drops = 4 from floor = 1
+Eggs: 2, Floors: 8
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 2
+Eggs: 2, Floors: 9
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 3
+Eggs: 2, Floors: 10
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 4
+Eggs: 2, Floors: 11
+	Min drops = 5 from floor = 1
+Eggs: 2, Floors: 12
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 2
+Eggs: 2, Floors: 13
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 3
+Eggs: 2, Floors: 14
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 4
+Eggs: 2, Floors: 15
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 5
+Eggs: 2, Floors: 16
+	Min drops = 6 from floor = 1
+Eggs: 2, Floors: 17
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 2
+Eggs: 2, Floors: 18
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 3
+Eggs: 2, Floors: 19
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 4
+Eggs: 2, Floors: 20
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 5
+Eggs: 2, Floors: 21
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 6
+Eggs: 2, Floors: 22
+	Min drops = 7 from floor = 1
+Eggs: 2, Floors: 23
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 2
+Eggs: 2, Floors: 24
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 3
+Eggs: 2, Floors: 25
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 4
+Eggs: 2, Floors: 26
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 5
+Eggs: 2, Floors: 27
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 6
+Eggs: 2, Floors: 28
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 7
+Eggs: 2, Floors: 29
+	Min drops = 8 from floor = 1
+Eggs: 2, Floors: 30
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 2
+Eggs: 2, Floors: 31
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 3
+Eggs: 2, Floors: 32
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 4
+Eggs: 2, Floors: 33
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 5
+Eggs: 2, Floors: 34
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 6
+Eggs: 2, Floors: 35
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 7
+Eggs: 2, Floors: 36
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 8
+Eggs: 2, Floors: 37
+	Min drops = 9 from floor = 1
+Eggs: 2, Floors: 38
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 2
+Eggs: 2, Floors: 39
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 3
+Eggs: 2, Floors: 40
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 4
+Eggs: 2, Floors: 41
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 5
+Eggs: 2, Floors: 42
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 6
+Eggs: 2, Floors: 43
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 7
+Eggs: 2, Floors: 44
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 8
+Eggs: 2, Floors: 45
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 9
+Eggs: 2, Floors: 46
+	Min drops = 10 from floor = 1
+Eggs: 2, Floors: 47
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 2
+Eggs: 2, Floors: 48
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 3
+Eggs: 2, Floors: 49
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 4
+Eggs: 2, Floors: 50
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 5
+Eggs: 2, Floors: 51
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 6
+Eggs: 2, Floors: 52
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 7
+Eggs: 2, Floors: 53
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 8
+Eggs: 2, Floors: 54
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 9
+Eggs: 2, Floors: 55
+	Min drops = 11 from floor = 1
+	Min drops = 10 from floor = 10
+Eggs: 2, Floors: 56
+	Min drops = 11 from floor = 1
+Eggs: 2, Floors: 57
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 2
+Eggs: 2, Floors: 58
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 3
+Eggs: 2, Floors: 59
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 4
+Eggs: 2, Floors: 60
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 5
+Eggs: 2, Floors: 61
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 6
+Eggs: 2, Floors: 62
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 7
+Eggs: 2, Floors: 63
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 8
+Eggs: 2, Floors: 64
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 9
+Eggs: 2, Floors: 65
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 10
+Eggs: 2, Floors: 66
+	Min drops = 12 from floor = 1
+	Min drops = 11 from floor = 11
+Eggs: 2, Floors: 67
+	Min drops = 12 from floor = 1
+Eggs: 2, Floors: 68
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 2
+Eggs: 2, Floors: 69
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 3
+Eggs: 2, Floors: 70
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 4
+Eggs: 2, Floors: 71
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 5
+Eggs: 2, Floors: 72
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 6
+Eggs: 2, Floors: 73
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 7
+Eggs: 2, Floors: 74
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 8
+Eggs: 2, Floors: 75
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 9
+Eggs: 2, Floors: 76
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 10
+Eggs: 2, Floors: 77
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 11
+Eggs: 2, Floors: 78
+	Min drops = 13 from floor = 1
+	Min drops = 12 from floor = 12
+Eggs: 2, Floors: 79
+	Min drops = 13 from floor = 1
+Eggs: 2, Floors: 80
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 2
+Eggs: 2, Floors: 81
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 3
+Eggs: 2, Floors: 82
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 4
+Eggs: 2, Floors: 83
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 5
+Eggs: 2, Floors: 84
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 6
+Eggs: 2, Floors: 85
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 7
+Eggs: 2, Floors: 86
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 8
+Eggs: 2, Floors: 87
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 9
+Eggs: 2, Floors: 88
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 10
+Eggs: 2, Floors: 89
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 11
+Eggs: 2, Floors: 90
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 12
+Eggs: 2, Floors: 91
+	Min drops = 14 from floor = 1
+	Min drops = 13 from floor = 13
+Eggs: 2, Floors: 92
+	Min drops = 14 from floor = 1
+Eggs: 2, Floors: 93
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 2
+Eggs: 2, Floors: 94
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 3
+Eggs: 2, Floors: 95
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 4
+Eggs: 2, Floors: 96
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 5
+Eggs: 2, Floors: 97
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 6
+Eggs: 2, Floors: 98
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 7
+Eggs: 2, Floors: 99
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 8
+Eggs: 2, Floors: 100
+	Min drops = 15 from floor = 1
+	Min drops = 14 from floor = 9
+Eggs: 3, Floors: 2
+	Min drops = 2 from floor = 1
+Eggs: 3, Floors: 3
+	Min drops = 3 from floor = 1
+	Min drops = 2 from floor = 2
+Eggs: 3, Floors: 4
+	Min drops = 3 from floor = 1
+Eggs: 3, Floors: 5
+	Min drops = 4 from floor = 1
+	Min drops = 3 from floor = 2
+Eggs: 3, Floors: 6
+	Min drops = 4 from floor = 1
+	Min drops = 3 from floor = 3
+Eggs: 3, Floors: 7
+	Min drops = 4 from floor = 1
+	Min drops = 3 from floor = 4
+Eggs: 3, Floors: 8
+	Min drops = 4 from floor = 1
+Eggs: 3, Floors: 9
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 2
+Eggs: 3, Floors: 10
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 3
+Eggs: 3, Floors: 11
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 4
+Eggs: 3, Floors: 12
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 5
+Eggs: 3, Floors: 13
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 6
+Eggs: 3, Floors: 14
+	Min drops = 5 from floor = 1
+	Min drops = 4 from floor = 7
+Eggs: 3, Floors: 15
+	Min drops = 5 from floor = 1
+Eggs: 3, Floors: 16
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 2
+Eggs: 3, Floors: 17
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 3
+Eggs: 3, Floors: 18
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 4
+Eggs: 3, Floors: 19
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 5
+Eggs: 3, Floors: 20
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 6
+Eggs: 3, Floors: 21
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 7
+Eggs: 3, Floors: 22
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 8
+Eggs: 3, Floors: 23
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 9
+Eggs: 3, Floors: 24
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 10
+Eggs: 3, Floors: 25
+	Min drops = 6 from floor = 1
+	Min drops = 5 from floor = 11
+Eggs: 3, Floors: 26
+	Min drops = 6 from floor = 1
+Eggs: 3, Floors: 27
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 2
+Eggs: 3, Floors: 28
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 3
+Eggs: 3, Floors: 29
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 4
+Eggs: 3, Floors: 30
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 5
+Eggs: 3, Floors: 31
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 6
+Eggs: 3, Floors: 32
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 7
+Eggs: 3, Floors: 33
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 8
+Eggs: 3, Floors: 34
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 9
+Eggs: 3, Floors: 35
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 10
+Eggs: 3, Floors: 36
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 11
+Eggs: 3, Floors: 37
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 12
+Eggs: 3, Floors: 38
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 13
+Eggs: 3, Floors: 39
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 14
+Eggs: 3, Floors: 40
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 15
+Eggs: 3, Floors: 41
+	Min drops = 7 from floor = 1
+	Min drops = 6 from floor = 16
+Eggs: 3, Floors: 42
+	Min drops = 7 from floor = 1
+Eggs: 3, Floors: 43
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 2
+Eggs: 3, Floors: 44
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 3
+Eggs: 3, Floors: 45
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 4
+Eggs: 3, Floors: 46
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 5
+Eggs: 3, Floors: 47
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 6
+Eggs: 3, Floors: 48
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 7
+Eggs: 3, Floors: 49
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 8
+Eggs: 3, Floors: 50
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 9
+Eggs: 3, Floors: 51
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 10
+Eggs: 3, Floors: 52
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 11
+Eggs: 3, Floors: 53
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 12
+Eggs: 3, Floors: 54
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 13
+Eggs: 3, Floors: 55
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 14
+Eggs: 3, Floors: 56
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 15
+Eggs: 3, Floors: 57
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 16
+Eggs: 3, Floors: 58
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 17
+Eggs: 3, Floors: 59
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 18
+Eggs: 3, Floors: 60
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 19
+Eggs: 3, Floors: 61
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 20
+Eggs: 3, Floors: 62
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 21
+Eggs: 3, Floors: 63
+	Min drops = 8 from floor = 1
+	Min drops = 7 from floor = 22
+Eggs: 3, Floors: 64
+	Min drops = 8 from floor = 1
+Eggs: 3, Floors: 65
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 2
+Eggs: 3, Floors: 66
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 3
+Eggs: 3, Floors: 67
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 4
+Eggs: 3, Floors: 68
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 5
+Eggs: 3, Floors: 69
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 6
+Eggs: 3, Floors: 70
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 7
+Eggs: 3, Floors: 71
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 8
+Eggs: 3, Floors: 72
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 9
+Eggs: 3, Floors: 73
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 10
+Eggs: 3, Floors: 74
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 11
+Eggs: 3, Floors: 75
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 12
+Eggs: 3, Floors: 76
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 13
+Eggs: 3, Floors: 77
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 14
+Eggs: 3, Floors: 78
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 15
+Eggs: 3, Floors: 79
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 16
+Eggs: 3, Floors: 80
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 17
+Eggs: 3, Floors: 81
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 18
+Eggs: 3, Floors: 82
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 19
+Eggs: 3, Floors: 83
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 20
+Eggs: 3, Floors: 84
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 21
+Eggs: 3, Floors: 85
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 22
+Eggs: 3, Floors: 86
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 23
+Eggs: 3, Floors: 87
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 24
+Eggs: 3, Floors: 88
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 25
+Eggs: 3, Floors: 89
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 26
+Eggs: 3, Floors: 90
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 27
+Eggs: 3, Floors: 91
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 28
+Eggs: 3, Floors: 92
+	Min drops = 9 from floor = 1
+	Min drops = 8 from floor = 29
+Eggs: 3, Floors: 93
+	Min drops = 9 from floor = 1
+Eggs: 3, Floors: 94
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 2
+Eggs: 3, Floors: 95
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 3
+Eggs: 3, Floors: 96
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 4
+Eggs: 3, Floors: 97
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 5
+Eggs: 3, Floors: 98
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 6
+Eggs: 3, Floors: 99
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 7
+Eggs: 3, Floors: 100
+	Min drops = 10 from floor = 1
+	Min drops = 9 from floor = 8
+nMinimum number of trials in worst case with 3 eggs and 100 floors is 9 
